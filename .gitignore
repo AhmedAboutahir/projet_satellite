@@ -1,0 +1,16 @@
+# Données volumineuses
+*.csv
+*.xlsx
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+*.class
+.venv/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
